@@ -1,0 +1,211 @@
+rowname,domain,phylum,class,order,family,genus,species
+28890,Archaea,Methanobacteriota,,,,,
+1654,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Actinomyces,
+1660,Bacteria,Actinomycetota,Actinomycetes,Actinomycetales,Actinomycetaceae,Schaalia,Schaalia odontolytica
+1680,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium adolescentis
+28025,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium animalis
+1681,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum
+1685,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium breve
+630129,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium catenulatum
+216816,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum
+28026,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum
+1694,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudolongum
+78346,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium ruminantium
+762211,Bacteria,Actinomycetota,Actinomycetes,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium stellenboschense
+43675,Bacteria,Actinomycetota,Actinomycetes,Micrococcales,Micrococcaceae,Rothia,Rothia mucilaginosa
+1653,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Corynebacteriaceae,,
+1827,Bacteria,Actinomycetota,Actinomycetes,Mycobacteriales,Nocardiaceae,Rhodococcus,
+31959,Bacteria,Actinomycetota,Actinomycetes,Pseudonocardiales,Pseudonocardiaceae,Amycolatopsis,Amycolatopsis lurida
+133925,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olsenella,
+2082587,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Parolsenella,
+2003188,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Parolsenella,Parolsenella catena
+74426,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,Collinsella aerofaciens
+1472762,Bacteria,Actinomycetota,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Enorma,
+84111,Bacteria,Actinomycetota,Coriobacteriia,Eggerthellales,Eggerthellaceae,Eggerthella,
+1386,Bacteria,Bacillota,Bacilli,Bacillales,Bacillaceae,Bacillus,
+1378,Bacteria,Bacillota,Bacilli,Bacillales,Gemellaceae,Gemella,
+55080,Bacteria,Bacillota,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,
+1290,Bacteria,Bacillota,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus hominis
+29394,Bacteria,Bacillota,Bacilli,Lactobacillales,Carnobacteriaceae,Dolosigranulum,Dolosigranulum pigrum
+1351,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis
+1354,Bacteria,Bacillota,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus hirae
+1597,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus,Lacticaseibacillus paracasei
+47715,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus,Lacticaseibacillus rhamnosus
+1578,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,
+1243,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc,
+1623,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Ligilactobacillus,Ligilactobacillus ruminis
+1624,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Ligilactobacillus,Ligilactobacillus salivarius
+97478,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus mucosae
+1632,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus,Limosilactobacillus oris
+137591,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Weissella,Weissella cibaria
+1583,Bacteria,Bacillota,Bacilli,Lactobacillales,Lactobacillaceae,Weissella,Weissella confusa
+1363,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae
+684066,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus lactarius
+1303,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus oralis
+1304,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus salivarius
+1343,Bacteria,Bacillota,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus vestibularis
+3082771,Bacteria,Bacillota,Clostridia,Eubacteriales,Acutalibacteraceae,,
+1628085,Bacteria,Bacillota,Clostridia,Eubacteriales,Butyricicoccaceae,Agathobaculum,Agathobaculum butyriciproducens
+580596,Bacteria,Bacillota,Clostridia,Eubacteriales,Butyricicoccaceae,Butyricicoccus,
+1485,Bacteria,Bacillota,Clostridia,Eubacteriales,Clostridiaceae,Clostridium,
+1730,Bacteria,Bacillota,Clostridia,Eubacteriales,Eubacteriaceae,Eubacterium,
+853,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Faecalibacterium,Faecalibacterium prausnitzii
+292800,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Flavonifractor,Flavonifractor plautii
+39492,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,NA17_genus,[Eubacterium] siraeum
+459786,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Oscillibacter,
+119852,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Oscillospira,
+40518,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Ruminococcus,Ruminococcus bromii
+44748,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Sporobacter,
+292632,Bacteria,Bacillota,Clostridia,Eubacteriales,Oscillospiraceae,Subdoligranulum,
+39491,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter,Agathobacter rectalis
+207244,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostipes,
+1737424,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia massiliensis (ex Durand et al. 2017)
+418240,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia wexlerae
+830,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Butyrivibrio,
+33042,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus,
+39486,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Dorea,Dorea formicigenerans
+1407607,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Fusicatenibacter,
+28050,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospira,
+33039,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] torques
+33038,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Mediterraneibacter,Mediterraneibacter gnavus
+46205,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Pseudobutyrivibrio,
+301302,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,Roseburia faecis
+1506577,Bacteria,Bacillota,Clostridia,Lachnospirales,Lachnospiraceae,Tyzzerella,
+1505657,Bacteria,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Intestinibacter,
+1849828,Bacteria,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Paeniclostridium,
+1505652,Bacteria,Bacillota,Clostridia,Peptostreptococcales,Peptostreptococcaceae,Terrisporobacter,
+135858,Bacteria,Bacillota,Erysipelotrichia,Erysipelotrichales,Coprobacillaceae,Catenibacterium,
+1735,Bacteria,Bacillota,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Holdemanella,Holdemanella biformis
+33024,Bacteria,Bacillota,Negativicutes,Acidaminococcales,Acidaminococcaceae,Phascolarctobacterium,
+82373,Bacteria,Bacillota,Negativicutes,Selenomonadales,Selenomonadaceae,Anaerovibrio,
+158846,Bacteria,Bacillota,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,
+52225,Bacteria,Bacillota,Negativicutes,Selenomonadales,Selenomonadaceae,Mitsuokella,
+209880,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Allisonella,Allisonella histaminiformans
+39948,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Dialister,
+907,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Megasphaera,Megasphaera elsdenii
+187326,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Megasphaera,Megasphaera micronuciformis
+39777,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella atypica
+39778,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella dispar
+29466,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula
+1502943,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella seminalis
+936591,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella sp. ICM51a
+671229,Bacteria,Bacillota,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella sp. oral taxon 780
+165779,Bacteria,Bacillota,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,
+1347386,Bacteria,Bacillota,Tissierellia,Tissierellales,Sporanaerobacteraceae,Anaerosalibacter,
+246787,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides cellulosilyticus
+817,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis
+28116,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus
+818,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron
+820,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis
+357276,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei
+28123,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas asaccharolytica
+1283313,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Alloprevotella,
+425941,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Hoylesella,Hoylesella nanceiensis
+1852368,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Ihuprevotella,Ihuprevotella massiliensis
+363265,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Leyella,Leyella stercorea
+577309,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Paraprevotella,
+470565,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella histicola
+28132,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica
+28133,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella nigrescens
+165179,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Segatella,Segatella copri
+823,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis
+46503,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae
+1016,Bacteria,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Capnocytophaga,
+195,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter coli
+199,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter concisus
+76517,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter hominis
+197,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter jejuni
+203,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter rectus
+204,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter showae
+215,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter fennelliae
+210,Bacteria,Campylobacterota,Epsilonproteobacteria,Campylobacterales,Helicobacteraceae,Helicobacter,Helicobacter pylori
+221235,Bacteria,Candidatus Absconditibacteriota,,,,,
+810,Bacteria,Chlamydiota,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,
+1117,Bacteria,Cyanobacteriota,,,,,
+1298,Bacteria,Deinococcota,Deinococci,Deinococcales,Deinococcaceae,Deinococcus,
+270,Bacteria,Deinococcota,Deinococci,Thermales,Thermaceae,Thermus,
+74152,Bacteria,Elusimicrobiota,,,,,
+134605,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium equinum
+859,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium necrophorum
+860,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium periodonticum
+256845,Bacteria,Lentisphaerota,,,,,
+544448,Bacteria,Mycoplasmatota,,,,,
+212791,Bacteria,Pseudomonadota,Alphaproteobacteria,Hyphomicrobiales,NA14_family,Enhydrobacter,
+13687,Bacteria,Pseudomonadota,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas,
+517,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Bordetella,
+32008,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,
+283,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Comamonadaceae,Comamonas,
+40544,Bacteria,Pseudomonadota,Betaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella,
+1056807,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Morococcus,Morococcus cerebrosus
+483,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria cinerea
+486,Bacteria,Pseudomonadota,Betaproteobacteria,Neisseriales,Neisseriaceae,Neisseria,Neisseria lactamica
+644,Bacteria,Pseudomonadota,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas hydrophila
+83770,Bacteria,Pseudomonadota,Gammaproteobacteria,Aeromonadales,Succinivibrionaceae,Succinivibrio,
+267891,Bacteria,Pseudomonadota,Gammaproteobacteria,Alteromonadales,Moritellaceae,,
+547,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacter,
+562,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+573,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae
+28901,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica
+621,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella boydii
+622,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella dysenteriae
+623,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri
+624,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sonnei
+53335,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Erwiniaceae,Pantoea,
+569,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia,Hafnia alvei
+581,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Morganella,
+586,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,
+613,Bacteria,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,
+469,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Acinetobacter,
+480,Bacteria,Pseudomonadota,Gammaproteobacteria,Moraxellales,Moraxellaceae,Moraxella,Moraxella catarrhalis
+713,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Actinobacillus,
+197575,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus aegyptius
+727,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus influenzae
+735,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus parahaemolyticus
+729,Bacteria,Pseudomonadota,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Haemophilus,Haemophilus parainfluenzae
+286,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,
+271420,Bacteria,Pseudomonadota,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Stutzerimonas,Stutzerimonas xanthomarina
+666,Bacteria,Pseudomonadota,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae
+157,Bacteria,Spirochaetota,Spirochaetia,Spirochaetales,Treponemataceae,Treponema,
+508458,Bacteria,Synergistota,,,,,
+872,Bacteria,Thermodesulfobacteriota,Desulfovibrionia,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,
+239934,Bacteria,Verrucomicrobiota,Verrucomicrobiia,Verrucomicrobiales,Akkermansiaceae,Akkermansia,
+5806,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Cryptosporidiidae,Cryptosporidium,
+5810,Eukaryota,Apicomplexa,Conoidasida,Eucoccidiorida,Sarcocystidae,Toxoplasma,
+35089,Eukaryota,Apicomplexa,Conoidasida,Eugregarinorida,Gregarinidae,Gregarina,
+1176732,Eukaryota,Ascomycota,Dothideomycetes,Mycosphaerellales,Teratosphaeriaceae,Acidomyces,Acidomyces acidophilus
+5475,Eukaryota,Ascomycota,Pichiomycetes,Serinales,Debaryomycetaceae,Candida,
+36913,Eukaryota,Ascomycota,Pichiomycetes,Serinales,Debaryomycetaceae,Lodderomyces,
+4930,Eukaryota,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,
+5552,Eukaryota,Basidiomycota,Tremellomycetes,Trichosporonales,Trichosporonaceae,Trichosporon,
+178369,Eukaryota,Cercozoa,Imbricatea,Euglyphida,,,
+45109,Eukaryota,Cercozoa,NA4_class,Cercomonadida,Cercomonadidae,Cercomonas,
+1170432,Eukaryota,Ciliophora,Colpodea,Colpodida,NA15_family,Bromeliothrix,
+1485168,Eukaryota,Discosea,NA5_class,Longamoebia,,,
+110788,Eukaryota,Evosea,NA6_class,Mastigamoebida,Entamoebidae,Endolimax,Endolimax nana
+46681,Eukaryota,Evosea,NA7_class,Mastigamoebida,Entamoebidae,Entamoeba,Entamoeba dispar
+5759,Eukaryota,Evosea,NA8_class,Mastigamoebida,Entamoebidae,Entamoeba,Entamoeba histolytica
+5741,Eukaryota,Fornicata,NA9_class,Diplomonadida,Hexamitidae,Giardia,Giardia intestinalis
+472572,Eukaryota,Fornicata,NA10_class,NA10_order,Retortamonadidae,Chilomastix,Chilomastix mesnili
+31281,Eukaryota,Microsporidia,NA11_class,NA11_order,Enterocytozoonidae,Enterocytozoon,Enterocytozoon bieneusi
+688353,Eukaryota,Mucoromycota,Mucoromycetes,Mucorales,Lichtheimiaceae,Lichtheimia,
+4838,Eukaryota,Mucoromycota,Mucoromycetes,Mucorales,Lichtheimiaceae,Rhizomucor,
+64644,Eukaryota,Mucoromycota,Mucoromycetes,Mucorales,Mucoraceae,Actinomucor,
+4830,Eukaryota,Mucoromycota,Mucoromycetes,Mucorales,Mucoraceae,Mucor,
+12968,Eukaryota,NA1_phylum,Bigyra,Opalinata,Blastocystidae,Blastocystis,Blastocystis hominis
+51022,Eukaryota,Nematoda,Chromadorea,Rhabditida,Ancylostomatidae,Ancylostoma,Ancylostoma duodenale
+51031,Eukaryota,Nematoda,Chromadorea,Rhabditida,Ancylostomatidae,Necator,Necator americanus
+6252,Eukaryota,Nematoda,Chromadorea,Rhabditida,Ascarididae,Ascaris,Ascaris lumbricoides
+36087,Eukaryota,Nematoda,Enoplea,Trichinellida,Trichuridae,Trichuris,Trichuris trichiura
+5728,Eukaryota,Parabasalia,NA12_class,Trichomonadida,Trichomonadidae,Pentatrichomonas,Pentatrichomonas hominis
+5723,Eukaryota,Parabasalia,NA13_class,Tritrichomonadida,Tritrichomonadidae,Tritrichomonas,
+102285,Eukaryota,Platyhelminthes,Cestoda,Cyclophyllidea,Hymenolepididae,Rodentolepis,Rodentolepis nana
+39724,Viruses,Cressdnaviricota,Arfiviricetes,Cirlivirales,Circoviridae,,
+10860,Viruses,Hofneiviricota,Faserviricetes,Tubulavirales,Inoviridae,,
+675071,Viruses,Kitrinoviricota,Alsuviricetes,Martellivirales,Virgaviridae,,
+68887,Viruses,NA3_phylum,NA3_class,NA3_order,Anelloviridae,NA3_genus,Torque teno virus
+1505663,Bacteria,Bacillota,Erysipelotrichia,Erysipelotrichales,Coprobacillaceae,,
+10841,Viruses,Phixviricota,Malgrandaviricetes,Petitvirales,Microviridae,,
+142786,Viruses,Pisuviricota,Pisoniviricetes,Picornavirales,Caliciviridae,Norovirus,
+12059,Viruses,Pisuviricota,Pisoniviricetes,Picornavirales,Picornaviridae,Enterovirus,
+10508,Viruses,Preplasmiviricota,Tectiliviricetes,Rowavirales,Adenoviridae,,
+1211417,Viruses,Uroviricota,Caudoviricetes,Crassvirales,NA16_family,NA16_genus,uncultured crAssphage
