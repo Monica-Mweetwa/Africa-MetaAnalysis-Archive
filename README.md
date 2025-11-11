@@ -15,7 +15,7 @@ The imput data used is stored in the 'Data' folder.
 
 # Contact Information
 
-If you have any questions, or comments, with the code, please feel free to contact:
+If you have any questions or comments with the code, please feel free to contact:
 
 - **Lead Author**: [Monica N Mweetwa]  
   **Email**: [monica@tropgan.com]  
