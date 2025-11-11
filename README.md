@@ -13,3 +13,11 @@ The imput data used is stored in the 'Data' folder.
 * The data used for phylogenetic tree constraction is stored in the 'Data/All_Studies' folder
 * The case control analysis used data stored in the 'Data/CaseControl_Analysis'
 
+# Contact Information
+
+If you have any questions, or comments, with the code, please feel free to contact:
+
+- **Lead Author**: [Monica N Mweetwa]  
+  **Email**: [monica@tropgan.com]  
+  **Institution**: [TROPGAN]
+
